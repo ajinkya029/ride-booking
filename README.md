@@ -94,7 +94,7 @@ Install the following before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ride-booking-backend.git
+git clone https://github.com/ajinkya029/ride-booking.git
 cd ride-booking
 ```
 
